@@ -16,3 +16,7 @@ If you dont own one, you can still play the full game on PC, download here: http
 
 
 The game has three environmental themes: Dark, Light, Empty. It can be switched with D-Pad UP!
+
+The controlls will be displayed on the bottom screen and are the following:
+
+<img width="320" height="960" alt="controlls" src="https://github.com/user-attachments/assets/ee03cf30-bafd-40ac-abd6-dc500e6e2ff5" />

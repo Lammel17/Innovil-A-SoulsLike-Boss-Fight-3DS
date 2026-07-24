@@ -9,7 +9,7 @@ You will need a modded N3DS console to convert the .cia file with the FBI app.
 
 If you dont own one, you can still play the full game on PC, download here: https://github.com/Lammel17/Innovil-A-SoulsLike-Boss-Fight-Full-Game
 
-<img width="400" height="960" alt="innovil shreenshot 7" src="https://github.com/user-attachments/assets/2b8fe24f-8d86-428c-9306-fd75542b6353" />
+<img width="400" height="90" alt="innovil shreenshot 7" src="https://github.com/user-attachments/assets/2b8fe24f-8d86-428c-9306-fd75542b6353" />
 <img width="400" height="960" alt="innovil shreenshot 3" src="https://github.com/user-attachments/assets/453e57a6-ae87-428b-a472-7958c2a865b8" />
 <img width="400" height="960" alt="v3 2" src="https://github.com/user-attachments/assets/75e1f14e-de70-44df-96e4-988745dcf0cd" />
 <img width="400" height="960" alt="v3 3" src="https://github.com/user-attachments/assets/c98826f3-e03f-4aba-aa30-ce4b2acb6800" />
